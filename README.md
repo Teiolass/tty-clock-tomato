@@ -1,5 +1,8 @@
+# tty-clock-tomato
+A tomato timer based on tty-clock.
+
 usage : tty-clock [-iuvsScbtrahDBxn] [-C [0-7]] [-f format] [-d delay] [-a nsdelay] [-T tty]
-    -s            Show seconds
+    -s            Show hours
     -S            Screensaver mode
     -x            Show box
     -c            Set the clock at the center of the terminal
